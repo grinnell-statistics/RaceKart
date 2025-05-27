@@ -1,0 +1,86 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Karting/Scenes/IntroScene(Alt).unity
+    guid: bbddd871d4342bb4faed2bb310c23333
+  - enabled: 1
+    path: Assets/Karting/Scenes/MainScene.unity
+    guid: 92786e23da2af4a4f8803aaf44c47121
+  - enabled: 1
+    path: Assets/Karting/Scenes/LoseScene.unity
+    guid: 9c449e01147824b419cda406398fb2e7
+  - enabled: 1
+    path: Assets/Karting/Scenes/WinScene.unity
+    guid: d6801f2e59f75ee4b919cf5da4e48e3b
+  - enabled: 1
+    path: Assets/Karting/Scenes/LevelScene.unity
+    guid: 0a276c7281a72b24ca5f064d87027a32
+  - enabled: 0
+    path: Assets/Karting/Scenes/Levels/Story Scenes/mpcScene1.unity
+    guid: 870d71ae79515e04fb1782ba7de30626
+  - enabled: 1
+    path: Assets/Karting/Scenes/GarageScene.unity
+    guid: 4aecbd6b42477114c9ecca11f69d6aae
+  - enabled: 0
+    path: Assets/Karting/Scenes/Levels/Story Scenes/Level0Part1Explan.unity
+    guid: 3e846f7e092bf4d4eb2764d59aba6391
+  - enabled: 1
+    path: Assets/Karting/Scenes/Levels/WinLose Scenes/Level0Part2Win.unity
+    guid: d0efb811b138a8d4abfcfee21486dd8b
+  - enabled: 1
+    path: Assets/Karting/Scenes/Levels/WinLose Scenes/Level0Part2Lose.unity
+    guid: c20777ea7410ed04091799b447b734b2
+  - enabled: 1
+    path: Assets/Karting/Scenes/Levels/Practice/CountryTrackExplan.unity
+    guid: ee8d71c749d05364491d77b088e575af
+  - enabled: 1
+    path: Assets/Karting/Scenes/Levels/WinLose Scenes/Level0Part3Win.unity
+    guid: 6d903ed01ab99e9438f44b9491775dd4
+  - enabled: 0
+    path: Assets/Karting/Scenes/Levels/Story Scenes/Level0Part3Explan.unity
+    guid: 6e47a9fba2d643d45b7e8e3ea6f9d328
+  - enabled: 0
+    path: Assets/Karting/Scenes/Levels/Story Scenes/Level0Part4Explan.unity
+    guid: 9f0c08036b915a14b95ccd3a2840dbe5
+  - enabled: 1
+    path: Assets/Karting/Scenes/Levels/Sandbox/VariablesChoose.unity
+    guid: c39b46f687657c841bd60d4163c9682a
+  - enabled: 1
+    path: Assets/Karting/Scenes/Levels/Practice/CountryTrack.unity
+    guid: cac6e2d2e130aef469234e72fb055a34
+  - enabled: 1
+    path: Assets/Karting/Scenes/Levels/Practice/PracticeWinScene.unity
+    guid: e36fdc4282bf197488c11b6d2e6e5406
+  - enabled: 1
+    path: Assets/Karting/Scenes/Levels/Level 2 (Desert)/WindingTrackExplan.unity
+    guid: 9d11fbb975e34b74097d68f3355d207a
+  - enabled: 1
+    path: Assets/Karting/Scenes/Levels/Level 3 (Snowy)/MountainTrack.unity
+    guid: 61dcfdf2655eeb742b44c213ecd37ded
+  - enabled: 1
+    path: Assets/Karting/Scenes/Levels/Sandbox/StraightTrack.unity
+    guid: ee0adacb95f729143bf9b4a9201444db
+  - enabled: 1
+    path: Assets/Karting/Scenes/Levels/Level 3 (Snowy)/MountainTrackExplan.unity
+    guid: 2f6b37fbce8071a40b4f05eae8d0d29d
+  - enabled: 1
+    path: Assets/Karting/Scenes/Levels/Level 1/BumpyTrackExplan.unity
+    guid: 1349655964794904ba693b0cf67db3b5
+  - enabled: 1
+    path: Assets/Karting/Scenes/Levels/Sandbox/TrackChoose.unity
+    guid: 62897ac1ec5f56145b591274b4dfa10e
+  - enabled: 1
+    path: Assets/Karting/Scenes/Levels/Level 1/BumpyTrack.unity
+    guid: afa4bdc28db9e554b900574a8824a2ca
+  - enabled: 1
+    path: Assets/Karting/Scenes/Levels/Level 2 (Desert)/WindingTrack.unity
+    guid: 054723ba8864d0b4d84b420304149c91
+  - enabled: 1
+    path: Assets/Karting/Scenes/Booster.unity
+    guid: be62cc6e35d640843a2881b977948726
+  m_configObjects: {}
